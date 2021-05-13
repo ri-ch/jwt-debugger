@@ -1,11 +1,12 @@
 [package]
 name = "jwt-debugger"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Richard Crawley <jwt-debugger@rcrawley.co.uk>"]
 edition = "2018"
 description = "Command line utility for working with JWTs"
 repository = "https://github.com/ri-ch/jwt-debugger"
 license = "MIT"
+readme = "readme.md"
 
 
 [dependencies]
