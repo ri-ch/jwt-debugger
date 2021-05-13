@@ -2,6 +2,7 @@
 
 A command line utiltity for working with JWTs
 
+
 ## Features
 
 Dump the contents of the header and claims to the console, each formatted as individual JSON objects

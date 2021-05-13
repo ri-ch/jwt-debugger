@@ -1,7 +1,6 @@
 use structopt::StructOpt;
 use jwt::{Header, Token, Unverified};
 use std::{collections::BTreeMap};
-use serde_json;
 
 #[derive(StructOpt, Debug)]
 #[structopt(name = "jwt-debugger")]
